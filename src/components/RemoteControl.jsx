@@ -8,4 +8,4 @@ const RemoteControl = () => {
       );
 }
 
-export default RemoteControl
+export default RemoteControl;
